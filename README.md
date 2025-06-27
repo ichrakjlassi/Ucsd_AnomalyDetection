@@ -14,7 +14,7 @@ Sur le plan data science, le projet vise à prétraiter les séquences vidéo du
 - Mejda BEDOUI
 - Nawres MNAKBI
 - Mohamed Hedi MEGDICHE
-- Collaboration sur GitHub
+
 
 ## Méthodologie
 
