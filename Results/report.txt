@@ -1,0 +1,2 @@
+Pourcentage d'anomalies: 11.46%
+Seuil utilisé: 0.1481
